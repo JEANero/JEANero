@@ -1,4 +1,4 @@
-[![spotify-github-profile]([https://spotify-github-profile.vercel.app/api/view?uid=pc8oiwotonvqvkw61vimh0kks&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pc8oiwotonvqvkw61vimh0kks&redirect=true](https://open.spotify.com/intl-pt/track/4XDpeWqPADoWRKcUY3dC84?si=458c7416b24749b3))
+[![spotify-github-profile](https://open.spotify.com/intl-pt/track/4XDpeWqPADoWRKcUY3dC84?si=8a025c9d7ccc4867)
 
 <h1 align="center">Olá👋, Me chamo Jean Marcos</h1>
 <h3 align="center">Um Admirador do mundo digital com foco em DADOS e Machine Learning</h3>
