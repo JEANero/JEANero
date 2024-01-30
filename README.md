@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://open.spotify.com/intl-pt/track/4XDpeWqPADoWRKcUY3dC84?si=8a025c9d7ccc4867)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1wepkbgi4d7jcsq8j9bgt8uww&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <h1 align="center">Olá👋, Me chamo Jean Marcos</h1>
 <h3 align="center">Um Admirador do mundo digital com foco em DADOS e Machine Learning</h3>
