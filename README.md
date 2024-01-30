@@ -1,4 +1,3 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1wepkbgi4d7jcsq8j9bgt8uww&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <h1 align="center">Olá👋, Me chamo Jean Marcos</h1>
 <h3 align="center">Um Admirador do mundo digital com foco em DADOS e Machine Learning</h3>
@@ -17,6 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1wepkbgi4d7jcsq8j9bgt8uww&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
